@@ -1,4 +1,4 @@
-I'm a Magento developer building payment solutions for the [Magento eCommerce](https://magento.com/) platform. On a daily basis, I help merchants accept their first online payments using the [Stripe](http://stripe.com/) payment gateway, sell subscriptions and build multi-vendor marketplaces.
+I'm a Magento developer working on the official Stripe integration for the Magento eCommerce platform. Check it out [here](https://stripe.com/docs/plugins/magento-2).
 
 <!---
 snez/snez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
